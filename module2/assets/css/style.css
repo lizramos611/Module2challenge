@@ -1,4 +1,63 @@
+*{
+   transition: all .3s;
+
+}
+
+body{
+    margin: 0%;
+  background-color:midnightblue;
+}
+
+.background {
+    background-color: black;
+    color:red;
+
+}
+
+
 h1 {
     color: red;
     font-size: 50px;
+    background-color: black;
+    font-family: fantasy;
+    font-weight: 100;
+    text-align: center;
+    background-image:url(/module2/assets/images/header\ bckground\ image.jpg);
+    padding: 50px; 
+   margin-top: 0;
+   margin-bottom: 0;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
+
+.navlinks {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+   background-color: black;
+   color: darkred;
+   width: 100%;
+   padding-top: 0%;
+   margin-top: 0%;
+   border: 0%;
+text-align: right;
+}
+
+a {
+    color: midnightblue;
+}
+
+.navlinks li {
+   display: inline-block;
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+}
+.navlinks:hover {
+    text-decoration: none;
+    background-color: red;
+    color: black;
+    font-style: italic;
+    
+    }
+
