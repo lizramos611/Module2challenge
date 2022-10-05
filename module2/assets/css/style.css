@@ -61,3 +61,16 @@ a {
     
     }
 
+#bio {
+        border-radius: 1px;
+        background: red;
+        display: flex;
+        align-items
+        margin: 200px;
+     
+    }
+
+#Aboutme {
+    text-decoration: underline;
+}
+
