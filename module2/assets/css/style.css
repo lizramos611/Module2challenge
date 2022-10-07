@@ -61,14 +61,43 @@ a {
     
     }
 
-#bio {
-        border-radius: 1px;
-        background: red;
+.box-1, .box-2 {
+        border-radius: 10px;
+        background: darkred;  
+        padding: 30px;
+        width: 400px;
+        margin: 10px;
         display: flex;
-        align-items
-        margin: 200px;
-     
+        justify-content: space-between;
+        justify-content: space-around;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        align-content: center;
+        display: inline-block;
+        flex-wrap: wrap;
+        
+        
     }
+
+    h2{
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    .box-3, .box-4 {
+        border-radius: 10px;
+        background: red;  
+        display: flex;
+        justify-content: space-between;
+        justify-content: space-around;
+        flex-direction: column;
+        width: 300px;
+        align-items: center;
+        margin: 50px;
+    }
+
+
 
 #Aboutme {
     text-decoration: underline;
