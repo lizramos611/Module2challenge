@@ -7,5 +7,6 @@ The footer also features a back to top button for ease on the user.
 Comments have been added throughout the HTML & CSS file. 
 Website loads with no error.
 Website has a deployed live URL.
+Github URL: https://github.com/lizramos611/Module2challenge
 
 ![website](https://user-images.githubusercontent.com/111591265/195455142-529438d8-5a40-44a3-ac12-aa9f0e59ccf4.PNG)
