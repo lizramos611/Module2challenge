@@ -8,7 +8,8 @@ Comments have been added throughout the HTML & CSS file.
 Website loads with no error.
 HTML & CSS passed the validator with no errors.
 Website has a deployed live URL.
-dEPLOYED url: https://lizramos611.github.io/Module2challenge/
+<br>
+Deployed url: https://lizramos611.github.io/Module2challenge/
 <br>
 Github URL: https://github.com/lizramos611/Module2challenge
 
