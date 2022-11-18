@@ -7,7 +7,7 @@
  body{
      margin: 0%;
    background-color:black;
-   background-image: url(./images/background.jpeg);
+   background-image: url(../css/images/background.jpeg);
    background-attachment: fixed;
    background-size: cover;
    background-repeat: no-repeat;
@@ -24,7 +24,7 @@
      padding: 50px; 
      margin-top: 0;
      margin-bottom: 0;
-     background-image: url(./images/smoke.gif);
+     background-image: url(../css/images/smoke.gif);
      background-repeat: no-repeat;
      background-size: cover;
  
