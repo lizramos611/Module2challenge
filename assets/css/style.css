@@ -1,4 +1,4 @@
-/*TRANSITION OF PAGE*/
+/*TRANSITION OF PAGEs*/
 *{
     transition: all .5s;
  
@@ -7,7 +7,7 @@
  body{
      margin: 0%;
    background-color:black;
-   background-image: url(./images/background.jpeg);
+   background-image: url(../images/background.jpg);
    background-attachment: fixed;
    background-size: cover;
    background-repeat: no-repeat;
@@ -24,7 +24,7 @@
      padding: 50px; 
      margin-top: 0;
      margin-bottom: 0;
-     background-image: url(./images/smoke.gif);
+     background-image: url(../images/smoke.gif);
      background-repeat: no-repeat;
      background-size: cover;
  
@@ -39,6 +39,7 @@
     padding-top: 0%;
     margin-top: 0%;
     padding-bottom: 5px;
+    border: 0%;
     text-align: center;
  }
  
@@ -88,12 +89,11 @@
  .photo, .box-5 {
      float: right;
      padding: 20px;
-     margin-right:10px;
+     margin-right:40px;
      background-color: darkred;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-bottom: 50px;
  }
  
   h2{
