@@ -1,4 +1,4 @@
-/*TRANSITION OF PAGE*/
+/*TRANSITION OF PAGEs*/
 *{
     transition: all .5s;
  
@@ -39,6 +39,7 @@
     padding-top: 0%;
     margin-top: 0%;
     padding-bottom: 5px;
+    border: 0%;
     text-align: center;
  }
  
@@ -88,12 +89,11 @@
  .photo, .box-5 {
      float: right;
      padding: 20px;
-     margin-right:10px;
+     margin-right:40px;
      background-color: darkred;
      display: flex;
      align-items: center;
      justify-content: center;
-     margin-bottom: 50px;
  }
  
   h2{
