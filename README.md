@@ -10,7 +10,7 @@ Website loads with no error.
 HTML & CSS passed the validator with no errors.
 Website has a deployed live URL.
 <br>
-Deployed url: https://lizramos611.github.io/Module2challenge/
+Deployed url: https://lizramos611.github.io/My-Portfolio/
 <br>
 Github URL: https://github.com/lizramos611/Module2challenge
 
